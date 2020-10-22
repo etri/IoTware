@@ -9,15 +9,15 @@ _IoTware Project_ is a research project funded by national government. The IoTwa
 * `oal`: Common and basic embedded software codes such as bsp, drivers, interface, iotware oal(OS abstration layer)
 
 ### Dependency
-* [FreeRTOS](https://www.freertos.org/) (> 9.0.0, [GPL 2.0](https://www.freertos.org/a00114.html))
+* [FreeRTOS](https://www.freertos.org/) (> 8.2.1, [GPL 2.0](https://www.freertos.org/a00114.html))
   * _FreeRTOS_ is a real-time operating system kernel for embedded devices that has been ported to 35 microcontroller platforms.
-* [NanoQplus] (> 2.3, [GPL 2.0])
+* [NanoQplus] (> 3.0.0, [GPL 2.0])
   * _NanoQplus_ is a small operating system for sensor network nodes made by the Electronics and Telecommunications Research Institute (ETRI).
-* [RIOT](https://www.riot-os.org/) (> 3.6.0, [GPL 2.1](https://www.riot-os.org/))
+* [RIOT](https://www.riot-os.org/) (> 2018.04, [GPL 2.1](https://www.riot-os.org/))
   * _RIOT_ is a small operating system for networked, memory-constrained systems with a focus on low-power wireless Internet of Things (IoT) devices.
-* [Contiki](https://www.contiki-ng.org/) (> 3.0.0, [3-clause BSD License](https://www.contiki-ng.org/))
+* [Contiki](https://www.contiki-ng.org/) (> 3.1, [3-clause BSD License](https://www.contiki-ng.org/))
   * _Contiki_ is an operating system for networked, memory-constrained systems with a focus on low-power wireless IoT devices.
-* [apache mynewt](http://mynewt.apache.org/) (> 3.0.0, [Apache License 2.0](http://mynewt.apache.org/))
+* [apache mynewt](http://mynewt.apache.org/) (> 1.8.0, [Apache License 2.0](http://mynewt.apache.org/))
   * _Apache Mynewt_ is a modular real-time operating system for connected IoT devices that must operate for long times under power, memory, and storage constraints.
 
 ### How to Run Codes
@@ -25,7 +25,7 @@ _IoTware Project_ is a research project funded by national government. The IoTwa
   * Prerequisite
     * Chrome (85.0.4183.121_64bit version or higher)
     * [openocd](http://openocd.org/): Fusing Tools
-  * URL access using Chrome. [IoTware IDE]
+  * URL access using Chrome. IoTware IDE
   * Log in to IoTWare IDE.
   * Create Workspace, Project, Microservice.
   * Build between Microservice and Framework and Library.
@@ -39,7 +39,7 @@ Please refer [CONTRIBUTING.md](CONTRIBUTING.md).
 Please refer [AUTHORS.md](AUTHORS.md).
 
 ### License
-Please refer [IoTware Project LSA](LICENSE.md).
+Please refer [DeepGuider Project LSA](LICENSE.md).
 
 ### Acknowledgement
 The authors thank the following contributors and projects.
