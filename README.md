@@ -23,9 +23,8 @@ _IoTware Project_ is a research project funded by national government. The IoTwa
 ### How to Run Codes
 * **Microsoft Windows**
   * Prerequisite
-    * Chrome (85.0.4183.121_64bit version or higher)
     * [openocd](http://openocd.org/): Fusing Tools
-  * URL access using Chrome. IoTware IDE
+  * Set up IoTWare IDE Demo version according to Installation manual. 
   * Log in to IoTWare IDE.
   * Create Workspace, Project, Microservice.
   * Build between Microservice and Framework and Library.
