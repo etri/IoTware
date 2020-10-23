@@ -2,10 +2,10 @@
 _IoTware Project_ is a research project funded by national government. The IoTware Project aims to develop a small IoT framework for providing microservices composed of tasks in IoT devices. The project was started in June 2018 and is currently under development.
 
 ### IoTware Modules
-* `SIFW`: Service Infra Interworking framework module that communicates with infra network
-* `SMFW`: Service mission framework module that manages microservices composed of a combination of tasks  
-* `ROFW`: Resource operation framework module that managse device power
-* `DCFW`: Distributed collaboration framework module to communiate with members of distributed collaboration cluster
+* `MICROSERVICE\SIFW`: Service Infra Interworking framework module that communicates with infra network
+* `MICROSERVICE\SMFW`: Service mission framework module that manages microservices composed of a combination of tasks  
+* `MICROSERVICE\ROFW`: Resource operation framework module that managse device power
+* `MICROSERVICE\DCFW`: Distributed collaboration framework module to communiate with members of distributed collaboration cluster
 * `oal`: Common and basic embedded software codes such as bsp, drivers, interface, iotware oal(OS abstration layer)
 
 ### Dependency
