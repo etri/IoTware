@@ -24,7 +24,9 @@ _IoTware Project_ is a research project funded by national government. The IoTwa
 * **Microsoft Windows**
   * Prerequisite
     * [openocd](http://openocd.org/): Fusing Tools
-  * Set up IoTWare IDE Demo version according to Installation manual. 
+    * Chrome (85.0.4183.121_64bit version or higher)
+  * URL access using Chrome.
+    * www.iotware-ide.namowebiz.com 
   * Log in to IoTWare IDE.
   * Create Workspace, Project, Microservice.
   * Build between Microservice and Framework and Library.
