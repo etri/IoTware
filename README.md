@@ -40,7 +40,7 @@ Please refer [CONTRIBUTING.md](CONTRIBUTING.md).
 Please refer [AUTHORS.md](AUTHORS.md).
 
 ### License
-Please refer [DeepGuider Project LSA](LICENSE.md).
+Please refer [IoTware Project LSA](LICENSE.md).
 
 ### Acknowledgement
 The authors thank the following contributors and projects.
