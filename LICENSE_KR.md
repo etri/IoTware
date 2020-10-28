@@ -14,5 +14,5 @@ IoTware 과제의 라이선스 적용 및 판매, 그리고 기타 기술 지원
 
 
 * 문의: 장일순
-* E-mail: isjang@etri.re.kr
+* E-mail: etrijis@gmail.com
 * 전화: 042-860-5424

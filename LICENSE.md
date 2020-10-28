@@ -14,5 +14,5 @@ If you have any questions about licensing and sales of IoTware Project, and othe
 
 
 * Name: Il-Soon Jang
-* E-mail: isjang@etri.re.kr
+* E-mail: etrijis@gmail.com
 * Phone: +82-42-860-5424
