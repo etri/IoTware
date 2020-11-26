@@ -37,6 +37,9 @@ _IoTware Project_ is a research project funded by national government. The IoTwa
 * YouTube
   * https://www.youtube.com/channel/UC_-0Usaw4Esra6PDRufk3EA
 
+### History
+* [IoTwareFW_v1.0.zip](IoTwareFW_v1.0.zip) is updated on October 22, 2020
+
 ### How to Contribute Your Codes
 Please refer [CONTRIBUTING.md](CONTRIBUTING.md).
 
