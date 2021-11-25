@@ -19,6 +19,10 @@ _IoTware Project_ is a research project funded by national government. The IoTwa
   * _Contiki_ is an operating system for networked, memory-constrained systems with a focus on low-power wireless IoT devices.
 * [apache mynewt](http://mynewt.apache.org/) (> 1.8.0, [Apache License 2.0](http://mynewt.apache.org/))
   * _Apache Mynewt_ is a modular real-time operating system for connected IoT devices that must operate for long times under power, memory, and storage constraints.
+* [Zephyr](https://zephyrproject.org/) ([Apache License 2.0](http://mynewt.apache.org/))
+  * _Zephyr Project_ is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
+* [Mbed-OS](https://os.mbed.com/) ([Apache License 2.0](http://mynewt.apache.org/))
+  * _Arm Mbed OS_ is an open source embedded operating system designed specifically for the "things" in the Internet of Things. It includes all the features you need to develop a connected product based on an Arm Cortex-M microcontroller, including security, connectivity, an RTOS and drivers for sensors and I/O devices.
 
 ### How to Run Codes
 * **Microsoft Windows**
@@ -39,6 +43,7 @@ _IoTware Project_ is a research project funded by national government. The IoTwa
 
 ### History
 * IoTwareFW_v1.0.zip is updated on October 22, 2020
+* IoTwareFW_v2.0.zip is updated on October 18, 2021
 
 ### How to Contribute Your Codes
 Please refer [CONTRIBUTING.md](CONTRIBUTING.md).
