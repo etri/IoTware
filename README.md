@@ -1,5 +1,5 @@
 ## IoTware
-_IoTware Project_ is a research project funded by national government. The IoTware Project aims to develop a small IoT framework for providing microservices composed of tasks in IoT devices. The project was started in June 2018 and is currently under development.
+_IoTware Project_ aims to develop a small IoT framework for providing microservices composed of tasks in IoT devices. It is a research project supported by the Korean government from June 2018 and currently under development.
 
 ### IoTware Modules
 * `MICROSERVICE\SIFW`: Service Infra Interworking framework module that communicates with infra network
